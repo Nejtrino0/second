@@ -20,6 +20,8 @@ public class MyFirstProgram {
         System.out.println("Hello, " + somebody + "!");
 
 
+        System.out.println("площадь квадрата со стороной 5 = 25");
+
     }
 
 
@@ -31,5 +33,8 @@ public class MyFirstProgram {
     }
 
 }
+
+
+
 
 
