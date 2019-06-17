@@ -13,11 +13,10 @@ repositories {
 
 
 dependencies   {
+    
 
-    compile 'org.testng:testng:7.0.0-beta4'
-
+    compile 'com.slickqa:testng:7.0.0-7'
 
 }
-
 
 
